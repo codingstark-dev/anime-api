@@ -1,0 +1,19 @@
+{
+  "name": "anime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"node main",
+    "r": "npm run r",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anigrab": "^1.8.4",
+    "anime-scraper": "^3.1.1",
+    "nodemon": "^2.0.4",
+    "p-iteration": "^1.1.8"
+  }
+}
